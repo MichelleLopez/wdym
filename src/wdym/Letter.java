@@ -109,7 +109,7 @@ public class Letter {
 
     @Override
     public String toString() {
-        return "Letra{" + "letter =" + letter + " left=" + left + " right=" + right + " up=" + up + " down=" + down + '}';
+        return "letter =" + letter + " left=" + left + " right=" + right + " up=" + up + " down=" + down + '}';
     }
     
 }
